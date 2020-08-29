@@ -1,4 +1,4 @@
-<h1 align="center">PartyBot</h1>
+<h1 align="center">Z-BOT</h1>
 
 <p align="center">
     <a href="https://pepy.tech/project/benbotasync" align="center">
@@ -17,7 +17,7 @@
 ---
 
 ## Installation
-PartyBot requires Python 3.6.1  or greater. If you need Python 3.6.1+, you can get it from here: [Python 3.6.1 Download](https://www.python.org/downloads/release/python-361/ "Python 3.6.1 Download").
+Z-BOT requires Python 3.6.1  or greater. If you need Python 3.6.1+, you can get it from here: [Python 3.6.1 Download](https://www.python.org/downloads/release/python-361/ "Python 3.6.1 Download").
 
 
 1. Install the required dependencies.
